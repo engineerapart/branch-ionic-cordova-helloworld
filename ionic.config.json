@@ -1,5 +1,7 @@
 {
   "name": "IonicHelloWorld",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
